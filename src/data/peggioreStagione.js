@@ -1,8 +1,8 @@
 const peggioreStagione = [
     {
         id: 1,
-        title: "CESSIONE OBBLIGATORIA",
-        description: "Il giocatore sarà inserito in lista trasferimenti e ceduto a titolo definitivo.",
+        title: "COME BELLOMO",
+        description: "Il giocatore sarà svincolato perché ha tradito la causa del Picchio.",
     },
     {
         id: 2,
@@ -12,12 +12,12 @@ const peggioreStagione = [
     {
         id: 3,
         title: "PRESTITO OBBLIGATORIO",
-        description: "Il giocatore sarà inserito in lista prestiti e ceduto a titolo temporaneo.",
+        description: "Il giocatore verrà ceduto in prestito per un anno.",
     },
     {
         id: 4,
         title: "DIVIETO DI CESSIONE",
-        description: "Il giocatore sarà protetto da eventuale cessione con il blocco di tutte le offerte di mercato.",
+        description: "Il giocatore non potrà essere ceduto nella sessione estiva.",
     }
 ]
 

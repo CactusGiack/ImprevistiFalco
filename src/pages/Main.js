@@ -1,8 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./MainStyle.css";
+<<<<<<< Updated upstream
 import poster1 from "../assets/curva.jpg";
 import poster2 from "../assets/rozzi.jpg";
+=======
+import magicu from "../assets/video/magliaascoli.mp4";
+import videopresidentissimo from "../assets/video/presidentissimo.mp4";
+import poster1 from "../assets/curva.png";
+import poster2 from "../assets/rozzi.png";
+>>>>>>> Stashed changes
 import poster4 from "../assets/mazzonerozzi.jpg";
 import logoTeam from "../assets/logo-team.png";
 import { motion } from "framer-motion";

@@ -1,23 +1,23 @@
 const miglioreStagione = [
     {
         id: 1,
-        title: "RINNOVO",
-        description: "Il giocatore merita il rinnovo di contratto.",
+        title: "RINNOVO AL DOPPIO CON BONUS",
+        description: "Il giocatore merita il rinnovo di contratto al doppio con aggiunta di bonus.",
     },
     {
         id: 2,
-        title: "DIVIETO DI CESSIONE",
-        description: "Il giocatore sarà blindato con il blocco di tutte le offerte di mercato.",
+        title: "CAPITANO MIO CAPITANO",
+        description: "Blocco di tutte le offerte di mercato per un anno e fascia da capitano.",
     },
     {
         id: 3,
-        title: "ACQUISTO CONNAZIONALE",
+        title: "AMICO MIO",
         description: "Il giocatore verrà premiato con l'acquisto di un suo connazionale.",
     },
     {
         id: 4,
-        title: "COME BONUCCI...!",
-        description: "Il giocatore verrà ceduto perché ha tradito la causa del Grifo.",
+        title: "CESSIONE OBBLIGATORIA",
+        description: "Il giocatore verrà ceduto perché vuole fare il salto di qualità.",
     }
 ]
 

@@ -8,9 +8,9 @@ const settimana = [
     },
     {
         id: 2,
-        title: "ADDIO PER SEMPRE...?",
+        title: "SSSOLDI",
         description:
-            "Il giocatore sarà inserito tra i cedibili con obbligo di cessione o gli dovrà essere rinnovato il contratto al doppio delle cifre attuali.",
+            "Obbligo di rinnovo al doppio delle cifre attuali.",
         isImprev: true,
     },
     {
@@ -22,8 +22,8 @@ const settimana = [
     },
     {
         id: 4,
-        title: "PAROLA ALLA COMMUNITY",
-        description: "Sarà applicato l'imprevisto scelto dalla Community.",
+        title: "MI SENTO SOLO",
+        description: "Compra un connazionale e schierali entrambi titolari per un mese",
         isImprev: true,
     },
     {
@@ -49,10 +49,10 @@ const settimana = [
     },
     {
         id: 8,
-        title: "ADEGUAMENTO ⃰",
+        title: "CI VEDIAMO L'ANNO PROSSIMO",
         description:
-            "Tramite il suo agente il giocatore fa giungere una richiesta di adeguamento del contratto per raggiungere il più pagato della rosa. Che fai? Accetti o lo cacci?",
-        isImprev: true,
+            "Obbligo di prestito secco per un anno.",
+            isImprev: true,
     },
     {
         id: 9,
@@ -63,9 +63,9 @@ const settimana = [
     },
     {
         id: 10,
-        title: "IETTATORE",
+        title: "AFENA-GYAN TIME",
         description:
-            "Il giocatore in oggetto causa un infortunio al miglior giocatore della tua rosa, che resta fuori per tutto il mese.",
+            "Il giocatore in oggetto causa un infortunio al miglior centrocampista della tua rosa, entrambi fuori per tutto il mese.",
         isImprev: true,
     },
     {
@@ -77,8 +77,8 @@ const settimana = [
     },
     {
         id: 12,
-        title: "CERTIFICATO MEDICO DA SANTO DOMINGO",
-        description: "Il giocatore resterà fuori rosa per tutto il mese.",
+        title: "GUARDA MAMMA COME ZAZA",
+        description: "Il giocatore invia certifcati medici fittizi per non giocare, obbligo di cessione senza trattare.",
         isImprev: true,
     },
     {
@@ -90,9 +90,9 @@ const settimana = [
     },
     {
         id: 14,
-        title: "SEMPRE PRESENTE",
+        title: "MOMENTO FALZERANO",
         description:
-            "II giocatore dovrà disputare tutte le partite per tutto il mese.",
+            "II giocatore dovrà disputare tutte le partite per tutto il mese da titolare.",
         isImprev: true,
     },
     {
@@ -104,9 +104,9 @@ const settimana = [
     },
     {
         id: 16,
-        title: "ADEGUAMENTO ⃰",
+        title: "CI VEDIAMO L'ANNO PROSSIMO",
         description:
-            "Tramite il suo agente il giocatore fa giungere una richiesta di adeguamento del contratto per raggiungere il più pagato della rosa. Che fai? Accetti o lo cacci?",
+            "Obbligo di prestito secco annuale",
         isImprev: true,
     },
     {
@@ -118,8 +118,8 @@ const settimana = [
     },
     {
         id: 18,
-        title: "PAROLA ALLA COMMUNITY",
-        description: "Sarà applicato l'imprevisto scelto dalla Community.",
+        title: "MI SENTO SOLO",
+        description: "Compra un connazionale del giocatore e schierali entrambi titolari per un mese.",
         isImprev: true,
     },
     {
@@ -131,8 +131,8 @@ const settimana = [
     },
     {
         id: 20,
-        title: "CERTIFICATO MEDICO DA SANTO DOMINGO",
-        description: "Il giocatore resterà fuori rosa per tutto il mese.",
+        title: "GUARDA MAMMA COME ZAZA",
+        description: "Il giocatore invia certifcati medici fittizi per non giocare, obbligo di cessione senza trattare.",
         isImprev: true,
     },
     {
@@ -146,7 +146,7 @@ const settimana = [
         id: 22,
         title: "IETTATORE",
         description:
-            "Il giocatore in oggetto causa un infortunio al miglior giocatore della tua rosa, che resta fuori per tutto il mese.",
+            "Il giocatore in oggetto causa un infortunio al miglior centrocampista della tua rosa, entrambi fuori per tutto il mese.",
         isImprev: true,
     },
     {
@@ -172,7 +172,7 @@ const settimana = [
     },
     {
         id: 26,
-        title: "SEMPRE PRESENTE",
+        title: "MOMENTO FALZERANO",
         description:
             "II giocatore dovrà disputare tutte le partite per tutto il mese.",
         isImprev: true,
@@ -186,9 +186,9 @@ const settimana = [
     },
     {
         id: 28,
-        title: "ADDIO PER SEMPRE...?",
+        title: "SSSOLDI",
         description:
-            "Il giocatore sarà inserito tra i cedibili con obbligo di cessione o gli dovrà essere rinnovato il contratto al doppio delle cifre attuali.",
+            "Obbligo di rinnovo al doppio delle cifre attuali.",
         isImprev: true,
     },
     {
@@ -200,4 +200,4 @@ const settimana = [
     },
 ];
 
-export default settimana;
+export default mese;
