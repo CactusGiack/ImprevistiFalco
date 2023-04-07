@@ -71,7 +71,7 @@ const Main = () => {
                             </div>
                             <video
                                 ref={settRef}
-                                src={lucianone}
+                                src={presidentissimo}
                                 loop
                                 muted
                                 poster={poster2}
