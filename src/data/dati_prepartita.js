@@ -22,8 +22,8 @@ const prepartita = [
     },
     {
         id: 4,
-        title: "SCANDALO SOCIAL",
-        description: "Il giocatore estratto sarà messo fuori rosa per tutto l’episodio.",
+        title: "COME GUE",
+        description: "Il giocatore estratto sarà messo fuori rosa per 2 partite.",
         isImprev: true,
         ultEstrazione: true
     },
@@ -36,8 +36,8 @@ const prepartita = [
     },
     {
         id: 6,
-        title: "FEBBRE DEL SABATO SERA!",
-        description: "I due giocatori più giovani titolari vengono beccati in discoteca prima di una partita, in tribuna per 2 partite",
+        title: "COME ZANIOLO",
+        description: "il giocatore estratto è stato beccato in discoteca prima della partita, in tribuna per punizione",
         isImprev: true,
         ultEstrazione: true
     },
@@ -99,8 +99,8 @@ const prepartita = [
     },
     {
         id: 15,
-        title: "LITIGIO SPOGLIATOIO",
-        description: "Estrai 2 giocatori e mettili fuori rosa per il resto della settimana.",
+        title: "LO TIRO IO",
+        description: "Estrai 2 giocatori e mettili fuori rosa per 3 partite.",
         isImprev: true,
         ultEstrazione: true
     },
@@ -162,8 +162,8 @@ const prepartita = [
     },
     {
         id: 24,
-        title: "PAROLA ALLA COMMUNITY!",
-        description: "L'avete voluto voi...",
+        title: "COME ZANIOLO",
+        description: "Il giocatore estratto è stato beccato in discoteca prima della partita, in tribuna per punizione",
         isImprev: true,
         ultEstrazione: true
     },
@@ -176,8 +176,8 @@ const prepartita = [
     },
     {
         id: 26,
-        title: "SCANDALO SOCIAL",
-        description: "Il giocatore estratto sarà messo fuori rosa per tutto l’episodio.",
+        title: "COME GUE",
+        description: "Il giocatore estratto sarà messo fuori rosa per 3 partite.",
         isImprev: true,
         ultEstrazione: true
     },
