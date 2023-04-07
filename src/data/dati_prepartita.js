@@ -36,8 +36,8 @@ const prepartita = [
     },
     {
         id: 6,
-        title: "PAROLA ALLA COMMUNITY!",
-        description: "L'avete voluto voi...",
+        title: "FEBBRE DEL SABATO SERA!",
+        description: "I due giocatori più giovani titolari vengono beccati in discoteca prima di una partita, in tribuna per 2 partite",
         isImprev: true,
         ultEstrazione: true
     },

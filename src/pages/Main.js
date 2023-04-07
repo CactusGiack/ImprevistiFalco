@@ -1,15 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./MainStyle.css";
-import magicu from "../assets/video/tshirt.mp4";
-import lucianone from "../assets/video/lucianone.mp4";
-import poster1 from "../assets/cuore.jpg";
-import poster2 from "../assets/gaucci.jpg";
-import poster3 from "../assets/rekolice.png";
-import poster4 from "../assets/mosca.jpg";
-//import siAmo from "../assets/siAmoAncoraQui.png";
+import poster1 from "../assets/curva.jpg";
+import poster2 from "../assets/rozzi.jpg";
+import poster4 from "../assets/mazzonerozzi.jpg";
 import logoTeam from "../assets/logo-team.png";
-import coppa from "../assets/champions.png";
 import { motion } from "framer-motion";
 
 const Main = () => {

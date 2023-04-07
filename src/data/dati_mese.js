@@ -3,7 +3,7 @@ const settimana = [
         id: 1,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -17,7 +17,7 @@ const settimana = [
         id: 3,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -30,21 +30,21 @@ const settimana = [
         id: 5,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
         id: 6,
         title: "UNTORE",
         description:
-            "Il giocatore trasmette una brutta malattia al resto della squadra. Aumenta di 20 punti le due slide degli infortuni per tutto il mese.",
+            "Il giocatore trasmette una brutta malattia al resto della squadra. Aumenta di 10 punti le due slide degli infortuni per tutto il mese.",
         isImprev: true,
     },
     {
         id: 7,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -58,7 +58,7 @@ const settimana = [
         id: 9,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -72,7 +72,7 @@ const settimana = [
         id: 11,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -85,7 +85,7 @@ const settimana = [
         id: 13,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -99,7 +99,7 @@ const settimana = [
         id: 15,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -113,7 +113,7 @@ const settimana = [
         id: 17,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -126,7 +126,7 @@ const settimana = [
         id: 19,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -139,7 +139,7 @@ const settimana = [
         id: 21,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -153,21 +153,21 @@ const settimana = [
         id: 23,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
         id: 24,
         title: "UNTORE",
         description:
-            "Il giocatore trasmette una brutta malattia al resto della squadra. Aumenta di 20 punti le due slide degli infortuni per tutto il mese.",
+            "Il giocatore trasmette una brutta malattia al resto della squadra. Aumenta di 10 punti le due slide degli infortuni per tutto il mese.",
         isImprev: true,
     },
     {
         id: 25,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -181,7 +181,7 @@ const settimana = [
         id: 27,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
     {
@@ -195,7 +195,7 @@ const settimana = [
         id: 29,
         title: "nessun imprevisto",
         description:
-            "Il giocatore passerà in tribuna le partite giocate questa settimana.",
+            "Il giocatore passerà in tribuna le partite giocate questo mese.",
         isImprev: false,
     },
 ];
